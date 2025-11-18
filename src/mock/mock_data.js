@@ -40,6 +40,13 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
+        },
+        {
+          "id": "site-1763451317100",
+          "name": "N8N",
+          "url": "https://n8n.747025763.xyz",
+          "description": "我的n8n",
+          "icon": "https://www.faviconextractor.com/favicon/n8n.747025763.xyz"
         }
       ]
     },
